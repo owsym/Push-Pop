@@ -1,0 +1,48 @@
+div{
+    text-align: center;
+    display: grid;
+    place-items: center; 
+    border-radius: 30px;
+   
+    background: transparent;
+ }
+
+ input{
+    margin-top: 30px;
+    text-align: center;
+    width: auto;
+    height: 25px;
+    border-radius: 50px;
+ }
+ 
+ body{
+    background:linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url(javascript-push-pop-array-methods.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: grid;
+    place-items: center;
+ }
+ 
+ button{
+   text-align: center;
+   border-radius: 40px;
+   background-color: aliceblue;  
+ }
+ 
+ button:hover{
+    size: 20px;
+    border-radius: 50px;
+    color: rgb(236, 141, 16); 
+    cursor: pointer;
+    font-size: 25px;
+ }
+ 
+ h1{ 
+   color:whitesmoke;
+   font-style: bold;
+   font-size: 35px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ 
